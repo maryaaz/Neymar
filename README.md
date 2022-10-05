@@ -1,0 +1,2 @@
+# Neymar
+ início a gente não sabia o que fazer, aí surgiu a ideia de fazer um jogo relacionado ao  Neymar e futebol. Então começamos a montar o jogo     Ele funciona da seguinte maneira, é um tabuleiro com cartas, assim que o jogador tirar carta ele joga a vez dele jogar de acordo com o que a carta condiz. O jogo pode até cinco pessoas       Fizemos o trabalho em grupo e foi uma experiência muito legal
